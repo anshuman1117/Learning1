@@ -1,4 +1,4 @@
-Check file to learn abput commits
+Check file to learn about commits
 
 
-yay visual!
+My first push to remote :)
